@@ -28,3 +28,4 @@ int main() {
 	cout<<endl;
 	return 0;
 }
+// Do phuc tap thuat toan time O(n^2) ,memory O(1) 

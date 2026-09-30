@@ -22,3 +22,4 @@ int main() {
 	cout<<endl;
 	return 0;
 }
+//Do phuc tap time O(n) ,memory O(1) 

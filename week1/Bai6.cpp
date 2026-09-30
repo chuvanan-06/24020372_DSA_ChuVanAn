@@ -56,3 +56,4 @@ int main() {
 	return 0;
 	
 }
+//Do phuc tap thoi gian O(n),memory O(1) 

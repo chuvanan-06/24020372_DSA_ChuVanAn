@@ -41,4 +41,4 @@ int main(){
 	}
 	return 0;
 }
-
+//Do phuc tap time O( N.M) ,memory O(1) 
